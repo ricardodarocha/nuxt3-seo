@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Home</h2>
+    <img src="https://miro.medium.com/max/1400/1*_fESqjaOkFszbEXHfTZGwA.png" alt="">  
   </div>
 </template>
 
